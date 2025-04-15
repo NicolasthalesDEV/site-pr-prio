@@ -22,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon-simple.ico" type="image/x-icon" />
         <Script id="theme-script" strategy="beforeInteractive">
           {`
             // Verificar preferência de tema no localStorage ou preferência do sistema
